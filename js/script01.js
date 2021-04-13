@@ -8,6 +8,10 @@
       $(this).next().toggle();
     });
 
+    $("#article1").hide();
+    $(".skrytKartu").on("click", function(){
+      $(this).children().children(".article-text").toggle();
+  });
   })
 
   //grafy
