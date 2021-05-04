@@ -64,6 +64,10 @@ const osobnosti = [{
 //jquery
 $(function () {
 
+    $(".stahnout").on("click", function () {
+        $(this).next().toggle();
+      });
+
 
     //-----------  slavne osobnosti -----------
     //vytvori karty v tabulce a dopni tam informace
