@@ -115,6 +115,8 @@ $(function () {
     naplnClanek(osobnosti[0].jmeno);
 
     $(".odkrytClanek").on("click", function () {
+        $(".odkrytClanek").removeClass("bg-info");
+        $(this).addClass("bg-info");   
         let nazev = $(this).children(".card-body").children(".card-title").text();
         naplnClanek(nazev);
     });
