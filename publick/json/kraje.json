@@ -1,98 +1,95 @@
 [{
-    "nazev": "Autonomous City of Buenos Aires",
-    "obrazek": "img/kraje/Bandera_de_la_Ciudad_de_Buenos_Aires.svg",
-    "text": "Buenos Aires je hlavní a s necelými 2,9 miliony obyvatel zároveň i nejlidnatější město Argentiny. Celá aglomerace, tzv. Gran Buenos Aires, pak čítá na zhruba 13 milionů obyvatel. Město má rozlohu 203 km² a rozkládá se na středovýchodě státu na břehu Río de la Plata."
-},{
-    "nazev": "Buenos Aires",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Buenos_Aires.svg",
-    "text": "<p>Buenos Aires je největší a nejlidnatější provincie v Argentině. Leží na východě země, rozloha činí 307 571 km², žije zde zhruba 15,5 milionu obyvatel. Hlavním městem provincie je La Plata. Součástí provincie je většina metropolitní oblasti a aglomerace Gran Buenos Aires, která obklopuje argentinské hlavní město Buenos Aires, jež je samostatnou správní federální jednotkou a nepatří tak do stejnojmenné provincie.</p><p>V provincii leží Villa Epecuén, v minulosti turistické lázeňské městečko, nyní město duchů.</p> <p>Provincie se dělí na 135 územních celků, zvaných partidos (administrativní centra jsou v závorce). Ty jsou na úrovni okresu a v zásadě odpovídají departementům v ostatních argentinských provinciích. Oproti nim jsou však zároveň nejnižšími samosprávnými jednotkami na úrovni obce. Sice se dělí na čtvrtě (localidas), z nichž některé mají status města, ty však nemají vlastní samosprávu a jsou spíše administrativního charakteru.</p>"
-},{
-    "nazev": "Catamarca",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Catamarca.svg",
-    "text": ""
-},{
-    "nazev": "Chaco",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Chaco.svg",
-    "text": ""
-},{
-    "nazev": "Chubut",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Chubut.svg",
-    "text": ""
-},{
-    "nazev": "Córdoba",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Córdoba_2014.svg",
-    "text": ""
-},{
-    "nazev": "Corrientes",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Corrientes.svg",
-    "text": ""
-},{
-    "nazev": "Entre Ríos",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Entre_Ríos.svg",
-    "text": ""
-},{
-    "nazev": "Formosa",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Formosa.svg",
-    "text": ""
-},{
-    "nazev": "Jujuy",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Jujuy.svg",
-    "text": ""
-},{
-    "nazev": "La Pampa",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_La_Pampa.svg",
-    "text": ""
-},{
-    "nazev": "La Rioja",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_La_Rioja.svg",
-    "text": ""
-},{
-    "nazev": "Mendoza",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Mendoza.svg",
-    "text": ""
-},{
-    "nazev": "Misiones",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Misiones.svg",
-    "text": ""
-},{
-    "nazev": "Neuquén",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Neuquén.svg",
-    "text": ""
-},{
-    "nazev": "Río Negro",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Río_Negro.svg",
-    "text": ""
-},{
-    "nazev": "Salta",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Salta.svg",
-    "text": ""
-},{
-    "nazev": "San Juan",
-    "obrazek": "img/kraje/Bandera_de_San_Juan_Ciudadana.png",
-    "text": ""
-},{
-    "nazev": "San Luis",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_San_Luis.svg",
-    "text": ""
-},{
-    "nazev": "Santa Cruz",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santa_Cruz.svg",
-    "text": ""
-},{
-    "nazev": "Santa Fe",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santa_Fe.svg",
-    "text": ""
-},{
-    "nazev": "Santiago del Estero",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg",
-    "text": ""
-},{
-    "nazev": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg",
-    "text": ""
-},
- {
-    "nazev": "Tucumán",
-    "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Tucumán.svg",
-    "text": ""
-}]
+        "nazev": "Buenos Aires",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Buenos_Aires.svg",
+        "text": "<p>Buenos Aires je největší a nejlidnatější provincie v Argentině. Leží na východě země, rozloha činí 307 571 km², žije zde zhruba 15,5 milionu obyvatel. Hlavním městem provincie je La Plata. Součástí provincie je většina metropolitní oblasti a aglomerace Gran Buenos Aires, která obklopuje argentinské hlavní město Buenos Aires, jež je samostatnou správní federální jednotkou a nepatří tak do stejnojmenné provincie.</p><p>V provincii leží Villa Epecuén, v minulosti turistické lázeňské městečko, nyní město duchů.</p> <p>Provincie se dělí na 135 územních celků, zvaných partidos (administrativní centra jsou v závorce). Ty jsou na úrovni okresu a v zásadě odpovídají departementům v ostatních argentinských provinciích. Oproti nim jsou však zároveň nejnižšími samosprávnými jednotkami na úrovni obce. Sice se dělí na čtvrtě (localidas), z nichž některé mají status města, ty však nemají vlastní samosprávu a jsou spíše administrativního charakteru.</p>"
+    }, {
+        "nazev": "Catamarca",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Catamarca.svg",
+        "text": "Catamarca je provincie na severozápadě Argentiny. Má hranici s provinciemi Salta na severu, na východě s provinciemi Tucumán, Santiago del Estero a Córdoba, na jihu s provincií La Rioja a na západě s Chile. Hlavním městem je San Fernando del Valle de Catamarca, kterému se zkráceně říká Catamarca.s"
+    }, {
+        "nazev": "Chaco",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Chaco.svg",
+        "text": "<p>Provincie Chaco je jednou z 23 provincií Argentiny. Rozprostírá se na severní části státu v regionu Gran Chaco, který zahrnuje sever Argetiny a dále podstatnou část Paraguaye a Bolívie. Ekonomika provincie je postavená především na primárním sektoru - pěstování bavlny a sóji, chovu skotu a těžbě dřeva.</p> <p>V minulosti se provincie stala jedním z cílů imigrantů ze střední a východní Evropy, kteří mířili do Argentiny. Usídlili se zde mimo jiné Češi, Slováci, Bulhaři, Chorvati, Maďaři a další.</p>"
+    }, {
+        "nazev": "Chubut",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Chubut.svg",
+        "text": "<p>Chubut je jedna z pěti argentinských provincií ležících v Patagonii. Rozkládá se mezi Andami na západě a Atlantským oceánem na východě. Severní a jižní hranice s provinciemi Río Negro a Santa Cruz probíhají v rovnoběžkovém směru. Jméno provincie pochází od jména řeky Chubut, nejvýznamnější řeky v regionu.</p> <p><h5>Obyvatelstvo</h5> Hlavní oblast osídlení se nachází na pobřeží, s výjimkou města Trelew, které se nachází 20 km od pobřeží na řece Chubut. Nejlidnatější města v této oblasti jsou: Comodoro Rivadavia (192 631 obyvatel), Trelew (108,201 obyvatel) a Puerto Madryn (85 915 obyvatel). Tato tři města dohromady mají téměř 70% obyvatel provincie. Další oblast osídlení je v horských údolích na západě, kde je klima vlhčí a mírnější. Zde se nachází např. Esquel (39 848 obyvatel).</p> <p><h5>zajímavosti</h5>Provincie je proslulá také v paleontologickém světě. Bylo zde nalezeno a popsáno množství fosílií druhohorních dinosaurů, z nichž jeden byl pojmenován podle názvu této provincie jako Chubutisaurus. Byl zde také objeven obří sauropodní dinosaurus druhu Patagotitan mayorum, jeden z největších známých suchozemských živočichů vůbec. Sedimenty z období druhohor (například geologické souvrství Cerro Barcino) jsou zde velmi rozšířené, proto se jedná o významnou oblast pro výzkum dinosaurů i dalších druhohorních obratlovců</p>"
+    }, {
+        "nazev": "Córdoba",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Córdoba_2014.svg",
+        "text": "Córdoba je provincie, která leží v centrální části Argentiny severně od její geografického středu, nazývá se proto i srdce Argentiny. Córdoba patří k nejhustěji zalidněným a hospodářsky nejdůležitějším částem Argentiny. Její hlavní město se též jmenuje Córdoba a je hospodářsky druhým nejvýznamnějším městem země. Córdoba hraničí na severu s provincií Santiago del Estero, na východě s provincií Santa Fé,na jihovýchodě s Buenos Aires, na jihu s provincií La Pampa, na jihovýchodě s provincií San Luis, na západě s provincií La Rioja a na severozápadě s provincií Catamarca."
+    }, {
+        "nazev": "Corrientes",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Corrientes.svg",
+        "text": "<p>Corrientes je provincie na severovýchodě Argentiny. Jméno pochází z řek Paraná a Uruguay, které protékají provincií a znamená v překladu do češtiny proudy.</p><p>Provincie hraničí na severu s provincií Misiones a s Paraguayí, na západě s provincií Santa Fe a Chaco, a jihu s provincií Entre Ríos a na východě s Brazílií. Corrientes je jedinou argentinskou provincií, která má kromě španělštiny druhý oficiální jazyk - guaraní.</p>"
+    }, {
+        "nazev": "Entre Ríos",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Entre_Ríos.svg",
+        "text": "<p>Entre Ríos (česky mezi řekami) je provincie na severovýchodě Argentiny. Leží mezi řekou Paraná, která tvoří hranici s provinciemi Santa Fé a Buenos Aires západě a severozápadě a řekou Uruguay, která tvoří hranici se stejnojmenným státem Uruguay na východě. Na severu hraničí s provincií Corrientes, která se taktéž nachází mezi oběma řekami.</p>"
+    }, {
+        "nazev": "Formosa",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Formosa.svg",
+        "text": "<p>Formosa je provincie na severovýchodě Argentiny a patří k argentinskému regionu Gran Chaco. Formosa na severu a východě s Paraguayí, severovýchodní cíp provincie leží naproti hlavnímu paraguayskému městu Asunción. Na západě hranicí s provincií Salta a na jihu s provincií Chaco. Hlavní město provincie se též jmenuje Formosa.</p>"
+    }, {
+        "nazev": "Jujuy",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Jujuy.svg",
+        "text": "Jujuy je provincie na nejzazším severozápadě Argentiny. Hraničí na západě s Chile, na severu s Bolívií a na východě s argentinskou provincií Salta. Její hlavní město se jmenuje San Salvador de Jujuy."
+    }, {
+        "nazev": "La Pampa",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_La_Pampa.svg",
+        "text": "La Pampa je provincie v centrální Argentině. Hraničí s provinciemi San Luis, Córdoba, Buenos Aires, Río Negro, Neuquén a Mendoza. Její hlavní město se jmenuje Santa Rosa de Toay a má 85 tisíc obyvatel."
+    }, {
+        "nazev": "La Rioja",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_La_Rioja.svg",
+        "text": "<p>La Rioja je provincie na západě Argentiny. Hlavní město provincie se též jmenuje La Rioja. Jméno pochází ze stejnojmenné španělské provincie La Rioja. Na severu hraničí La Rioja s provincií Catamarca, na východě s provincií Córdoba, na jihu s provincií San Luis a na západě s provincií San Juan. Mimoto má provincie na západě hranici s Chile.</p><p><h5>Paleontologie</h5>Tato provincie je významná paleontologickými objevy dinosauřích zkamenělin, zerjména pak v sedimentech provincie Los Colorados svrchnotriasového stáří. Byly zde objeveny rody jako Riojasaurus, Lessemsaurus, Coloradisaurus nebo Zupaysaurus.</p>"
+    }, {
+        "nazev": "Mendoza",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Mendoza.svg",
+        "text": "<p>Mendoza je argentinská provincie na centrálním západě země. Mendoza hraničí s provinciemi San Juan na severu, s provinciemi San Luis a La Pampa na východě, s provinciemi Río Negro a Neuquén na jihu a s Chile na západě. Je sedmou největší provincií Argentiny podle rozlohy a čtvrtou nejlidnatější.</p><p><h5>Geografie</h5>Provincie je součástí hornatého regionu Cuyo, na jejím území se nachází nejvyšší hora amerického kontinentu Aconcagua. Nejdůležitější řekou je Desaguadero, na řece Tunuyán se nachází přehrada El Carrizal s hydroelektrárnou. Největšími jezery jsou Laguna de Llancanelo a Diamantové jezero. Významnou přírodní památkou jsou horké prameny Puente del Inca. Podnebí je kontinentální, s horkými léty, kdežto v zimě může vítr pamperos srazit teplotu až pod bod mrazu. Srážky nepřesahují 350 mm ročně, časté jsou bouřky s kroupami. Oblast je seismicky aktivní: k nejničivějšímu známému zemětřesení došlo v roce 1861, poslední zemětřesení v roce 2006 se obešlo bez obětí na životech.</p><p><h5>Ekonomika</h5>Zemědělství je na většině území provincie závislé na zavlažování. Hlavní odvětvím je vinařství, provincie produkuje 1,1 miliardy litrů ročně, především odrůdy Malbec. Dále se pěstuje ovoce, rajčata a olivy, významné je také místní včelařství. Oblast je hlavním argentinským producentem ropy, mědi a uranu. Největší ropná rafinerie se nachází ve městě Luján de Cuyo. Významný je turistický ruch, návštěvníci přijíždějí na oslavy místního vinobraní na přelomu února a března, v zimě zde funguje jedno z největších lyžařských středisek Argentiny Las Leñas.</p><p><h5>Historie</h5>Podle vykopávek bylo území osídleno už ve druhém tisíciletí před naším letopočtem příslušníky kultury Ansilta, později se zde usadili Puelčové. V polovině šestnáctého století obsadili oblast Španělé a připojili ji ke generálnímu kapitanátu Chile, roku 1561 založil Pedro del Castillo město Mendozu. V roce 1813 se provincie Cuyo připojila k nezávislé Argentině. Roku 1884 byla zprovozněna železniční trať do Buenos Aires, která ukončila izolaci oblasti a umožnila její hospodářský rozvoj</p>"
+    }, {
+        "nazev": "Misiones",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Misiones.svg",
+        "text": "Misiones je jedna ze 23 provincií Argentiny. Leží na severovýchodě země při hranicích s Brazílií a s Paraguayí. Jižně od provincie Misiones se nachází provincie Corrientes. V provincii Misinoes na hranici s brazilským státem Paraná se na řece Paraná nacházejí světoznámé vodopády Iguaçu."
+    }, {
+        "nazev": "Neuquén",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Neuquén.svg",
+        "text": "<p>Neuquén je argentinská provincie na západě země na severu Patagonie. Hlavní město se stejnojmenné město Neuquén.</p><p><h5>Paleontologie</h5>Tato provincie je ve vědeckém světě známá zejména díky četným objevům druhohorních dinosaurů a mnoha dalších pravěkých organismů. Byly zde objeveny například i fosilie jednoho z největších známých dinosaurů, sauropoda druhu Argentinosaurus huinculensis</p>"
+    }, {
+        "nazev": "Río Negro",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_del_Río_Negro.svg",
+        "text": "<p>Río Negro je jedna ze 23 argentinských provincií ve středu země na severu Patagonie. Hlavním městem je Viedma. Río Negro hraničí s provincií Neuquén na západě, s provinciemi Mendoza a La Pampa na severu, s provincií Buenos Aires na severozápadě a s provincií Chubut na jihu. Provincie Río Negro dále má na západě hranici s Chile a na jihozápadě má pobřeží Atlantského oceánu.</p><p><h5>Paleontologie</h5>Tato provincie je významná množstvím paleontologických objevů, zejména pak fosilních koster druhohorních dinosaurů. Jedním z nich je i kachnozobý dinosaurus Bonapartesaurus rionegrensis, v jehož druhovém jméně je provincie dokonce přímo jmenována.</p>"
+    }, {
+        "nazev": "Salta",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Salta.svg",
+        "text": "<p>Salta je jednou z 23 provincií, které tvoří republiku Argentina. Nachází se v oblasti Severní velká Argentina (Región del Norte Grande Argentino) na severozápadě země. Sousedními provinciemi jsou Formosa, Chaco, Santiago del Estero, Tucumán, Catamarca a Jujuy. Sousední státy na severu jsou Bolívie a Paraguay a na západě Chile. Hlavní město provincie má stejné jméno – Salta. Rozloha provincie je 155 488 km2 ,počet obyvatel je cca 1 215 200 (2010). Provincie je administrativně rozdělena na 23 departmantů.</p><p><h5>Geografie</h5>Provincie je na západě hornatá, zasahuje z části do pouště Atacama, prochází čtyřmi horskými pásmy Cordilier a potom směrem na východ přechází do nížin na západě Gran Chaco. Západ je zavlažován toky a přítoky řek Río Bermejo a Río Salado, jejichž údolí jsou úrodná. Severovýchodní částí provincie protéká řeka Pilcomayo. Ta přitéká ze sousední Bolívie a na svém dolním toku tvoří hranici mezi Argentinou a Paraguayí.</p>"
+    }, {
+        "nazev": "San Juan",
+        "obrazek": "img/kraje/Bandera_de_San_Juan_Ciudadana.png",
+        "text": "<p>San Juan je argentinská provincie. Leží na západě země. Sousedí s provinciemi La Rioja, San Luis a Mendoza. Na západě sousedí s Chile. Je rozdělena do 19 departmentů.</p><p>Její součástí je i významná geologická formace a přírodní park Ischigualasto s unikátními objevy prvních dinosaurů.</p>"
+    }, {
+        "nazev": "San Luis",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_San_Luis.svg",
+        "text": "San Luis je argentinská provincie. Leží na středozápadě země."
+    }, {
+        "nazev": "Santa Cruz",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santa_Cruz.svg",
+        "text": "Santa Cruz je argentinská provincie. Leží na jihu země, v oblasti Patagonie. Hlavním městem je Río Gallegos."
+    }, {
+        "nazev": "Santa Fe",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santa_Fe.svg",
+        "text": "Santa Fe je argentinská provincie. Leží na severu země. Hlavní město je Santa Fe se 480 000 obyvateli. Avšak největší město provincie je Rosario nacházející se na jih od hlavního města provincie."
+    }, {
+        "nazev": "Santiago del Estero",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg",
+        "text": "Santiago del Estero je argentinská provincie. Leží na severu země."
+    }, {
+        "nazev": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg",
+        "text": "<p>Ohňová země (španělsky Tierra del Fuego, celým názvem Tierra del Fuego, Antártida e Islas del Atlántico Sur, tj. Ohňová země, Antarktida a ostrovy jižního Atlantiku) je argentinská provincie. Skládá se z části souostroví Ohňové země a formálně části Antarktidy a několika souostroví v jižním Atlantském oceánu a v Jižním oceánu.</p><p><h5>Administrativní dělení</h5>Provincie sestává ze 4 departementů. V praxi Argentina spravuje pouze dvě z nich na východní části ostrova Ohňová země a přilehlých ostrovech; třetí je fakticky britským zámořským územím a poslední, antarktická část, je předmětem mezinárodních sporů mezi Argentinou, Spojeným královstvím a Chile.</p> <p><b>departement Río Grande (hlavní město Río Grande)</b></p> <p><b>departement Tolhuin (hlavní město Tolhuin)</b></p><p><b>departement Ushuaia (hlavní město Ushuaia)</b></p><p><b>departement Ostrovy jižního Atlantiku</b> – souostroví Falklandy, Jižní Georgie, Jižní Sandwichovy ostrovy, Jižní Orkneje, které fakticky jsou součástmi britských zámořských území Falklandy, Jižní Georgie a Jižní Sandwichovy ostrovy a Britské antarktické území; Argentina tak nemá na jejich správu vliv</p><p><b>departement Argentinská Antarktida</b> – část Antarktidy vymezená 25. a 74. západním poledníkem, nárokovaná na Spojeném království; územní nárok zmrazen po dobu platnosti Smlouvy o Antarktidě</p>"
+    },
+    {
+        "nazev": "Tucumán",
+        "obrazek": "img/kraje/Bandera_de_la_Provincia_de_Tucumán.svg",
+        "text": "<p>Tucumán je nejmenší provincií Argentiny, ale patří k nejlidnatějším. Leží na severozápadě země. Hlavní město této provincie je San Miguel de Tucumán, často také nazývané Tucumán. Význam názvu Tucumán je nejasný. Vysvětlení z údajného kečuánskeho slova Yucuman („Místo, kde pramení řeky“), zdá se ale, že to není pravda.</p><p><h5>Obyvatelstvo</h5>V provincii  žije  zhruba 1,4 milionu obyvatel, přitom asi  55 %  jich  sídlí  v  hlavním městě  San Miguel de Tucumán  a jeho blízkém  okolí ( cca  770 000 ).   99,2% obyvatel jsou Argentinci, z  toho  se jich  90.2%  narodilo  v  Tucumánu. </p><p><h5>Ekonomika</h5>Tucumán je největším  argentinským výrobcem  citronů  a  cukru.  Avšak  i  jiné rostlinné  produkty  jsou  pěstovány  v  Tucumánu. Proto  Tucumán  má  také  název  Zahrada republiky.</p>"
+    }
+]

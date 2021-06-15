@@ -1,0 +1,103 @@
+[{
+    "nazev": "Ushuaia",
+    "obrazek": "img/mesta/Escudo_Municipalidad_Ushuaia.svg",
+    "text": ""
+}, {
+    "nazev": "Rio gallegos",
+    "obrazek": "img/mesta/Bandera_de_la_Ciudad_de_Río_Gallegos.svg",
+    "text": ""
+}, {
+    "nazev": "El Calafate",
+    "obrazek": "img/mesta/El_Calafate_flag.jpg",
+    "text": ""
+}, {
+    "nazev": "El Chaltén",
+    "obrazek": "img/mesta/Bandera_del_Municipio_de_El_Chaltén.svg",
+    "text": ""
+}, {
+    "nazev": "Comodoro Rivadavia",
+    "obrazek": "img/mesta/Bandera_de_Comodoro_Rivadavia.png",
+    "text": ""
+}, {
+    "nazev": "Trelew",
+    "obrazek": "img/mesta/Escudo_Trelew.svg",
+    "text": ""
+}, {
+    "nazev": "Puerto Madryn",
+    "obrazek": "img/mesta/Flag_of_the_Welsh_colony_in_Patagonia.svg",
+    "text": ""
+}, {
+    "nazev": "Bariloche",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bariloche_Coats_of_Arms.svg",
+    "text": ""
+}, {
+    "nazev": "Neuquén",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandera_ciudad_Neuqu%C3%A9n.svg",
+    "text": ""
+}, {
+    "nazev": "Sta. Rosa",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Santa_rosa_coat_arms.png",
+    "text": ""
+}, {
+    "nazev": "Mar del Plata",
+    "obrazek": "#",
+    "text": ""
+}, {
+    "nazev": "Buenos Aires",
+    "obrazek": "img/mesta/Bandera_de_la_Ciudad_de_Buenos_Aires (1).svg",
+    "text": ""
+}, {
+    "nazev": "San Luis",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandera_de_la_Ciudad_de_San_Luis_%28Argentina%29.svg",
+    "text": ""
+}, {
+    "nazev": "Mendoza",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Escudo_Departamental_Mendoza.png",
+    "text": ""
+}, {
+    "nazev": "Paraná",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/1/18/Banderaparana.jpg",
+    "text": ""
+}, {
+    "nazev": "Cordoba",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Escudo_ciudad_de_cordoba_argentina.svg",
+    "text": ""
+}, {
+    "nazev": "La Rioja",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Escudo_de_la_ciudad_de_La_Rioja_%28Argentina%29.png",
+    "text": ""
+}, {
+    "nazev": "Catamarca",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/3/33/Flag_of_San_Fernando_del_Valle_de_Catamarca.svg",
+    "text": ""
+}, {
+    "nazev": "Tucumán",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/1/1c/EscudoSanMigueldeTucuman.svg",
+    "text": ""
+}, {
+    "nazev": "Iguazú",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Municipalidad_de_Puerto_Iguaz%C3%BA.jpg",
+    "text": ""
+}, {
+    "nazev": "Posadas",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandera_de_Posadas_%28Misiones%29.svg",
+    "text": ""
+}, {
+    "nazev": "Resistencia",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Resistencia.svg",
+    "text": ""
+}, {
+    "nazev": "Jujuy",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Escudo_San_Salvador_de_Jujuy.gif",
+    "text": ""
+}, {
+    "nazev": "Salta",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/1/16/Escudo-Salta.png",
+    "text": ""
+
+},{
+    "nazev": "Junin",
+    "obrazek": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Escudo_de_Jun%C3%ADn.jpg",
+    "text": ""
+
+}]
