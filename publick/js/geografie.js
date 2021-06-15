@@ -1,6 +1,21 @@
 //-----------------------------
 $(function () {
 
+    $("#naplnit").append(`
+
+            <h4 class="card-title">Provincie</h4>
+            <p class="card-text">
+                <div class="overflow-auto float-left" style="height: 80vh;">
+                    <div>
+                    Argentina je federativní stát, který se skládá z 23 provincií a jednoho federálního distriktu - hlavního města Buenos Aires.
+                    </div>
+                </div>
+            </p>
+
+            `)
+           
+        
+
     let puvodni = ''
 
     $("#mapa circle").on("mouseover", function () {
